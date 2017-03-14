@@ -1,0 +1,16 @@
+{
+    "name": "blagcy/cyphp",
+    "description": "a demo for composer",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BlagCy",
+            "email": "52636202@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
